@@ -1,4 +1,4 @@
-package: .
+package: dapp-web-service
 import:
 - package: github.com/gin-gonic/gin
-  version: v1.3.0
+  version: ~1.3.0
